@@ -1,0 +1,12 @@
+# Protect database credentials
+/config/database.php
+
+# Temporary admin creation script
+/public/create_admin.php
+
+# Temporary and system files
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
